@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1667753734 source:c:\users\angel\desktop\probando_juego_cartas\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<stdio.h>
+	<conio.h>
+	"funciones.h"
+
+1667753730 c:\users\angel\desktop\probando_juego_cartas\funciones.h
+
+1667755300 source:c:\users\angel\desktop\probando_juego_cartas\funciones.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"funciones.h"
+
+1667787402 source:c:\users\angel\desktop\copia de seguridad card jitsu++\probando_juego_cartas\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<stdio.h>
+	<conio.h>
+	"funciones.h"
+
+1667787444 c:\users\angel\desktop\copia de seguridad card jitsu++\probando_juego_cartas\funciones.h
+
+1667788214 source:c:\users\angel\desktop\copia de seguridad card jitsu++\probando_juego_cartas\funciones.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"funciones.h"
+
+1668255304 source:c:\users\angel\desktop\grancerdo\probando_juego_cartas\funciones.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"rlutil.h"
+	"funciones.h"
+
+1668255255 c:\users\angel\desktop\grancerdo\probando_juego_cartas\funciones.h
+
+1668255255 source:c:\users\angel\desktop\grancerdo\probando_juego_cartas\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+	"rlutil.h"
+	"funciones.h"
+
+1571584339 c:\users\angel\desktop\grancerdo\probando_juego_cartas\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1668255306 source:c:\users\angel\onedrive\documentos\utn - angel\card jitsu++\funciones.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"rlutil.h"
+	"funciones.h"
+
+1571584340 c:\users\angel\onedrive\documentos\utn - angel\card jitsu++\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1668255256 c:\users\angel\onedrive\documentos\utn - angel\card jitsu++\funciones.h
+
+1668255256 source:c:\users\angel\onedrive\documentos\utn - angel\card jitsu++\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+	"rlutil.h"
+	"funciones.h"
+
