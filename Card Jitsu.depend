@@ -1,0 +1,171 @@
+# depslib dependency file v1.0
+1701735188 source:c:\users\angel\onedrive\escritorio\card jitsu++\card jitsu\main.cpp
+	<locale.h>
+	"Jugador.h"
+	"App.h"
+
+1701714083 c:\users\angel\onedrive\escritorio\card jitsu++\card jitsu\app.h
+
+1701729565 source:c:\users\angel\onedrive\escritorio\card jitsu++\card jitsu\app.cpp
+	<iostream>
+	"rlutil.h"
+	"App.h"
+	"Juego.h"
+	"Jugador.h"
+	"CartaDesafio.h"
+	"CartaElementos.h"
+
+1700686286 c:\users\angel\onedrive\escritorio\card jitsu++\card jitsu\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1702832600 source:c:\users\angel\onedrive\escritorio\card jitsu++\card jitsu\juego.cpp
+	"Juego.h"
+	"Jugador.h"
+	<iostream>
+	"rlutil.h"
+	<limits>
+	"CartaDesafio.h"
+	"CartaElementos.h"
+
+1702832279 source:c:\users\angel\onedrive\escritorio\card jitsu++\card jitsu\jugador.cpp
+	<string.h>
+	"jugador.h"
+
+1702021585 c:\users\angel\onedrive\escritorio\card jitsu++\card jitsu\jugador.h
+
+1701836987 c:\users\angel\onedrive\escritorio\card jitsu++\card jitsu\cartadesafio.h
+	<iostream>
+	"Jugador.h"
+	"rlutil.h"
+
+1700686286 c:\users\angel\onedrive\escritorio\card jitsu++\card jitsu\\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1701820666 source:c:\users\angel\onedrive\escritorio\card jitsu++\card jitsu\cartadesafio.cpp
+	"cartaDesafio.h"
+	<ctime>
+	"rlutil.h"
+	"Jugador.h"
+
+1694216774 source:c:\users\angel\onedrive\escritorio\card jitsu++\card jitsu\cargarcadena.cpp
+	<iostream>
+	<clocale>
+	"CargarCadena.h"
+
+1694216716 c:\users\angel\onedrive\escritorio\card jitsu++\card jitsu\cargarcadena.h
+
+1702020405 c:\users\angel\onedrive\escritorio\card jitsu++\card jitsu\juego.h
+	"Jugador.h"
+	"CargarCadena.h"
+
+1701922109 c:\users\angel\onedrive\escritorio\card jitsu++\card jitsu\cartaelementos.h
+	<iostream>
+	"Jugador.h"
+	<ctime>
+
+1702832189 source:c:\users\angel\onedrive\escritorio\card jitsu++\card jitsu\cartaelementos.cpp
+	"CartaElementos.h"
+	"rlutil.h"
+	<ctime>
+	<iomanip>
+
+1701729565 source:c:\users\angel\onedrive\documentos\utn - angel\cuatrimestre - agosto 2023 - angel\card jitsu++\card jitsu\app.cpp
+	<iostream>
+	"rlutil.h"
+	"App.h"
+	"Juego.h"
+	"Jugador.h"
+	"CartaDesafio.h"
+	"CartaElementos.h"
+
+1700686286 c:\users\angel\onedrive\documentos\utn - angel\cuatrimestre - agosto 2023 - angel\card jitsu++\card jitsu\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1701714083 c:\users\angel\onedrive\documentos\utn - angel\cuatrimestre - agosto 2023 - angel\card jitsu++\card jitsu\app.h
+
+1702020405 c:\users\angel\onedrive\documentos\utn - angel\cuatrimestre - agosto 2023 - angel\card jitsu++\card jitsu\juego.h
+	"Jugador.h"
+	"CargarCadena.h"
+
+1702021585 c:\users\angel\onedrive\documentos\utn - angel\cuatrimestre - agosto 2023 - angel\card jitsu++\card jitsu\jugador.h
+
+1694216716 c:\users\angel\onedrive\documentos\utn - angel\cuatrimestre - agosto 2023 - angel\card jitsu++\card jitsu\cargarcadena.h
+
+1701836987 c:\users\angel\onedrive\documentos\utn - angel\cuatrimestre - agosto 2023 - angel\card jitsu++\card jitsu\cartadesafio.h
+	<iostream>
+	"Jugador.h"
+	"rlutil.h"
+
+1701922109 c:\users\angel\onedrive\documentos\utn - angel\cuatrimestre - agosto 2023 - angel\card jitsu++\card jitsu\cartaelementos.h
+	<iostream>
+	"Jugador.h"
+	<ctime>
+
+1694216774 source:c:\users\angel\onedrive\documentos\utn - angel\cuatrimestre - agosto 2023 - angel\card jitsu++\card jitsu\cargarcadena.cpp
+	<iostream>
+	<clocale>
+	"CargarCadena.h"
+
+1701820666 source:c:\users\angel\onedrive\documentos\utn - angel\cuatrimestre - agosto 2023 - angel\card jitsu++\card jitsu\cartadesafio.cpp
+	"cartaDesafio.h"
+	<ctime>
+	"rlutil.h"
+	"Jugador.h"
+
+1702832189 source:c:\users\angel\onedrive\documentos\utn - angel\cuatrimestre - agosto 2023 - angel\card jitsu++\card jitsu\cartaelementos.cpp
+	"CartaElementos.h"
+	"rlutil.h"
+	<ctime>
+	<iomanip>
+
+1702832741 source:c:\users\angel\onedrive\documentos\utn - angel\cuatrimestre - agosto 2023 - angel\card jitsu++\card jitsu\juego.cpp
+	"Juego.h"
+	"Jugador.h"
+	<iostream>
+	"rlutil.h"
+	<limits>
+	"CartaDesafio.h"
+	"CartaElementos.h"
+
+1702832279 source:c:\users\angel\onedrive\documentos\utn - angel\cuatrimestre - agosto 2023 - angel\card jitsu++\card jitsu\jugador.cpp
+	<string.h>
+	"jugador.h"
+
+1701735188 source:c:\users\angel\onedrive\documentos\utn - angel\cuatrimestre - agosto 2023 - angel\card jitsu++\card jitsu\main.cpp
+	<locale.h>
+	"Jugador.h"
+	"App.h"
+
